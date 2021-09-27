@@ -1,6 +1,6 @@
 # IPL Cricket Score Prediction
 
- ![airplane](Images/ipl.jpg)  
+ ![airplane](Images/hrt.jpg)  
 
 ## Table of Content ##
 - [Demo](#demo)
@@ -20,7 +20,7 @@
 
 ## Demo
 
-![flight](Images/ipl.gif)  
+![flight](Images/heart.gif)  
 
 ## Overview
 
