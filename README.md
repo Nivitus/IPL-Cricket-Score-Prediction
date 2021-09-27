@@ -95,7 +95,7 @@ For this project I have download dataset form [Kaggel](https://www.kaggle.com/c/
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
 - Here is the Deployment link [click here](https://heartdiseapreds.herokuapp.com/)
 
-![him](Images/hh.JPG)  
+
 
 
 ## To Do
