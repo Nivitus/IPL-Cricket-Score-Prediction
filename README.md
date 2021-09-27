@@ -24,13 +24,19 @@
 
 ## Overview
 
-Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
+In this project we gonna predict which IPL Cricket team gonna win based on some features. 
 
-Nowadays, the number of people using Netflix, Hotstar Movies has increased significantly.The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies.
+- Number of wickets left
+- Number of balls left
+- On how much scores are the current batsman batting?
+- How much the team had scored in last 5 overs?
+- How much the team had lost wickets in last 5 overs?
 
-## Motivation
+I will use some of these factors to predict score using machine learning algorithms. We use regression analysis in machine learning to predict the final score of an ODI or T-20 match
 
-Ever wondered how Netflix or Hotstar recommends new movies based on the watch history, I really want to know about how Amazon or Flipkart suggests new products based on your order or search history? These suggestions or recommendations are done by a system called a recommendation system. This engine makes suggestions by learning and understanding the patterns in your watch history (let’s say) and then applies those patterns and findings to make new suggestions.
+# Motivation
+
+"A leader is the one who makes an impact and provides inspiration." - M.S Dhoni(Former Indian Cricket team Captain.) M.S. Dhoni exemplified these qualities. I really love to playing cricket and football, so always be a sports lover so that I have an idea about applying Machine Learning techniques on various sports and soprts analytics. This thought gave me to get the motivation for doing this project.
 
 
 ## Technical Aspects
@@ -97,15 +103,14 @@ To run my app on your local machine, do the following steps.
    ```
 
 ## About Dataset
-For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). In this dataset there are three folders like train , test and validation folder . In this dataset features like Departure time, Arrival Time, Source, Destination, Stopage and Airline Service Names.
-
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/c/iplmsac/data). In this dataset there are three folders like train , test and validation folder . 
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
-- Here is the Deployment link [click here](https://movierecommengine.herokuapp.com/)
+- Here is the Deployment link [click here](https://iplcrickpred.herokuapp.com/)
 
-![movie1](Images/ms.JPG)  
-![movie2](Images/fss.JPG)  
+![movie1](Images/csk.JPG)  
+![movie2](Images/mi.JPG)  
 
 ## To Do
 
