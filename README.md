@@ -1,6 +1,6 @@
-# Movies_Recommendation_Engine
+# IPL Cricket Score Prediction
 
- ![airplane](Images/mov.jpg)  
+ ![airplane](Images/ipl.jpg)  
 
 ## Table of Content ##
 - [Demo](#demo)
@@ -20,7 +20,7 @@
 
 ## Demo
 
-![flight](Images/movie.gif)  
+![flight](Images/ipl.gif)  
 
 ## Overview
 
